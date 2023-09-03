@@ -1,0 +1,43 @@
+.navbar{
+    width:auto;
+    height: 60px;
+    text-align: center;
+    background-color: rgb(245, 248, 250);
+    /* border: 3px solid black; */
+
+}
+.maincont{
+    
+    /* border: 1px solid black; */
+    height: 600px;
+    width:700px;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+
+    transform: translate(-50%, -50%);
+   
+}
+.heading{
+    margin-top: 7px;
+    height: 20px;
+    border-bottom: 1px solid black;
+}
+.btnadd{
+    margin: 10px;
+    text-align: right;
+   
+}
+.btnmain:hover{
+    cursor: pointer;
+}
+
+.btnmain{
+    background-color: black;
+    color: white;
+}
+.th{
+    text-align: center;
+    
+}
+
